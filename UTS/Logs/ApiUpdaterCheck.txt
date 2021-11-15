@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 11/14/2021 6:55:16 PM : Starting F:/UNITY baru/Unity 2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2615.3553ms
+moved types parse time: 252ms
+candidates parse time : 20ms
+C# parse time         : 2028ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/14/2021 6:55:33 PM : Starting F:/UNITY baru/Unity 2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.9059ms
+moved types parse time: 120ms
+candidates parse time : 2ms
+C# parse time         : 379ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/14/2021 6:57:51 PM : Starting F:/UNITY baru/Unity 2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.9242ms
+moved types parse time: 119ms
+candidates parse time : 3ms
+C# parse time         : 402ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/14/2021 7:03:50 PM : Starting F:/UNITY baru/Unity 2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2015.5066ms
+moved types parse time: 112ms
+candidates parse time : 2ms
+C# parse time         : 1368ms
+candidates check time : 59ms
+console write time    : 1ms
+
